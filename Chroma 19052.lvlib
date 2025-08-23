@@ -24,6 +24,8 @@ Type: Hi-Pot Tester</Property>
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Action-Status" Type="Folder">
 			<Item Name="Action-Status.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Action-Status/Action-Status.mnu"/>
+			<Item Name="Source Start.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Action-Status/Source Start.vi"/>
+			<Item Name="Source Stop.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Action-Status/Source Stop.vi"/>
 		</Item>
 		<Item Name="Configure" Type="Folder">
 			<Item Name="IEEE 488.2" Type="Folder">
