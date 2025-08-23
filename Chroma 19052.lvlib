@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="25008000">
 	<Property Name="Instrument Driver" Type="Str">True</Property>
-	<Property Name="NI.Lib.DefaultMenu" Type="Str">Action-Status.mnu</Property>
+	<Property Name="NI.Lib.DefaultMenu" Type="Str">dir.mnu</Property>
 	<Property Name="NI.Lib.Description" Type="Str">LabVIEW Plug and Play instrument driver for
 
 Manufacturer: CHROMA ATE
@@ -24,8 +24,6 @@ Type: Hi-Pot Tester</Property>
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Action-Status" Type="Folder">
 			<Item Name="Action-Status.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Action-Status/Action-Status.mnu"/>
-			<Item Name="Source Start.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Action-Status/Source Start.vi"/>
-			<Item Name="Source Stop.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Action-Status/Source Stop.vi"/>
 		</Item>
 		<Item Name="Configure" Type="Folder">
 			<Item Name="IEEE 488.2" Type="Folder">
