@@ -26,6 +26,7 @@ Type: Hi-Pot Tester</Property>
 			<Item Name="Action-Status.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Action-Status/Action-Status.mnu"/>
 			<Item Name="Source Start.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Action-Status/Source Start.vi"/>
 			<Item Name="Source Stop.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Action-Status/Source Stop.vi"/>
+			<Item Name="Source Status query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Action-Status/Source Status query.vi"/>
 		</Item>
 		<Item Name="Configure" Type="Folder">
 			<Item Name="IEEE 488.2" Type="Folder">
@@ -94,6 +95,8 @@ Type: Hi-Pot Tester</Property>
 		</Item>
 		<Item Name="Data" Type="Folder">
 			<Item Name="Data.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Data.mnu"/>
+			<Item Name="Result All Modes query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Result All Modes query.vi"/>
+			<Item Name="Result Step Jugement query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Result Step Jugement query.vi"/>
 		</Item>
 		<Item Name="Utility" Type="Folder">
 			<Item Name="Type Def" Type="Folder">
