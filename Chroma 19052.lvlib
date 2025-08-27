@@ -27,6 +27,9 @@ Type: Hi-Pot Tester</Property>
 			<Item Name="Source Start.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Action-Status/Source Start.vi"/>
 			<Item Name="Source Stop.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Action-Status/Source Stop.vi"/>
 			<Item Name="Source Status query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Action-Status/Source Status query.vi"/>
+			<Item Name="Source Offset.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Action-Status/Source Offset.vi"/>
+			<Item Name="Source Offset Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Action-Status/Source Offset Query.vi"/>
+			<Item Name="Source Step Delete.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Action-Status/Source Step Delete.vi"/>
 		</Item>
 		<Item Name="Configure" Type="Folder">
 			<Item Name="IEEE 488.2" Type="Folder">
@@ -97,6 +100,11 @@ Type: Hi-Pot Tester</Property>
 			<Item Name="Data.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Data.mnu"/>
 			<Item Name="Result All Modes query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Result All Modes query.vi"/>
 			<Item Name="Result Step Jugement query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Result Step Jugement query.vi"/>
+			<Item Name="Source CST Standar.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Source CST Standar.vi"/>
+			<Item Name="Source Fetch query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Source Fetch query.vi"/>
+			<Item Name="Source Mode query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Source Mode query.vi"/>
+			<Item Name="Source Settings per Step query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Source Settings per Step query.vi"/>
+			<Item Name="Source Step Number query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Source Step Number query.vi"/>
 		</Item>
 		<Item Name="Utility" Type="Folder">
 			<Item Name="Type Def" Type="Folder">
