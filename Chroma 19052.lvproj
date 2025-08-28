@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Name="Template - Generic.lvproj" Type="Project" LVVersion="25008000" URL="/&lt;instrlib&gt;/_Template - Generic/Template - Generic.lvproj">
+<Project Type="Project" LVVersion="25008000">
 	<Property Name="Instrument Driver" Type="Str">True</Property>
 	<Property Name="NI.Project.Description" Type="Str">This project is used by developers to edit API and example files for LabVIEW Plug and Play instrument drivers.</Property>
 	<Item Name="My Computer" Type="My Computer">
@@ -7,6 +7,7 @@
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Chroma 19052.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Chroma 19052/Chroma 19052.lvlib"/>
+		<Item Name="Configure OSC Limit Open.vi" Type="VI" URL="../../../../../../Users/Taboada.r248/Documents/LabVIEW Data/CHROMA-1905X-series-Driver/Files/Configure OSC Limit Open.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

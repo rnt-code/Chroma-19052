@@ -112,6 +112,7 @@ Type: Hi-Pot Tester</Property>
 				<Item Name="AC-DC-IR modes--ring.ctl" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Utility/Type Def/AC-DC-IR modes--ring.ctl"/>
 				<Item Name="DC-IR modes--ring.ctl" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Utility/Type Def/DC-IR modes--ring.ctl"/>
 				<Item Name="steps--numeric.ctl" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Utility/Type Def/steps--numeric.ctl"/>
+				<Item Name="OSC mode--ring.ctl" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Utility/Type Def/OSC mode--ring.ctl"/>
 			</Item>
 			<Item Name="Memory" Type="Folder">
 				<Item Name="Memory Define Location Name.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Utility/Memory/Memory Define Location Name.vi"/>
