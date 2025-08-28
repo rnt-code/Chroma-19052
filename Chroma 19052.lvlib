@@ -113,6 +113,16 @@ Type: Hi-Pot Tester</Property>
 				<Item Name="DC-IR modes--ring.ctl" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Utility/Type Def/DC-IR modes--ring.ctl"/>
 				<Item Name="steps--numeric.ctl" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Utility/Type Def/steps--numeric.ctl"/>
 			</Item>
+			<Item Name="Memory" Type="Folder">
+				<Item Name="Memory Define Location Name.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Utility/Memory/Memory Define Location Name.vi"/>
+				<Item Name="Memory Delete Location.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Utility/Memory/Memory Delete Location.vi"/>
+				<Item Name="Memory Free State query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Utility/Memory/Memory Free State query.vi"/>
+				<Item Name="Memory Free Steps query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Utility/Memory/Memory Free Steps query.vi"/>
+				<Item Name="Memory Location by Name query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Utility/Memory/Memory Location by Name query.vi"/>
+				<Item Name="Memory Name by Location query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Utility/Memory/Memory Name by Location query.vi"/>
+				<Item Name="Memory Storage Capacity query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Utility/Memory/Memory Storage Capacity query.vi"/>
+				<Item Name="Memory.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Utility/Memory/Memory.mnu"/>
+			</Item>
 			<Item Name="Utility.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Utility/Utility.mnu"/>
 			<Item Name="Error Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Utility/Error Query.vi"/>
 			<Item Name="Reset.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Utility/Reset.vi"/>
