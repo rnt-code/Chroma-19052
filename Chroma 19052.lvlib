@@ -33,18 +33,31 @@ Type: Hi-Pot Tester</Property>
 		</Item>
 		<Item Name="Configure" Type="Folder">
 			<Item Name="Presets" Type="Folder">
+				<Property Name="NI.SortType" Type="Int">0</Property>
+				<Item Name="Preset AC-V FREQ query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset AC-V FREQ query.vi"/>
+				<Item Name="Preset AC-V FREQ.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset AC-V FREQ.vi"/>
+				<Item Name="Preset AFTER FAIL query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset AFTER FAIL query.vi"/>
+				<Item Name="Preset AFTER FAIL.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset AFTER FAIL.vi"/>
+				<Item Name="Preset GFI switch query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset GFI switch query.vi"/>
+				<Item Name="Preset GFI switch.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset GFI switch.vi"/>
 				<Item Name="Preset GR. CONT. test query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset GR. CONT. test query.vi"/>
 				<Item Name="Preset GR. CONT. test.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset GR. CONT. test.vi"/>
+				<Item Name="Preset LOT NUMBER query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset LOT NUMBER query.vi"/>
 				<Item Name="Preset LOT NUMBER validator.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset LOT NUMBER validator.vi"/>
 				<Item Name="Preset LOT NUMBER.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset LOT NUMBER.vi"/>
+				<Item Name="Preset PART NUMBER query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset PART NUMBER query.vi"/>
 				<Item Name="Preset PART NUMBER validator.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset PART NUMBER validator.vi"/>
 				<Item Name="Preset PART NUMBER.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset PART NUMBER.vi"/>
 				<Item Name="Preset PASS HOLD time query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset PASS HOLD time query.vi"/>
 				<Item Name="Preset PASS HOLD time.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset PASS HOLD time.vi"/>
+				<Item Name="Preset RAMP JUDGment query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset RAMP JUDGment query.vi"/>
 				<Item Name="Preset RAMP JUDGment.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset RAMP JUDGment.vi"/>
+				<Item Name="Preset SCREEN query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset SCREEN query.vi"/>
 				<Item Name="Preset SCREEN.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset SCREEN.vi"/>
+				<Item Name="Preset SERIAL NUMBER query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset SERIAL NUMBER query.vi"/>
 				<Item Name="Preset SERIAL NUMBER validator.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset SERIAL NUMBER validator.vi"/>
 				<Item Name="Preset SERIAL NUMBER.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset SERIAL NUMBER.vi"/>
+				<Item Name="Preset SMART KEY query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset SMART KEY query.vi"/>
 				<Item Name="Preset SMART KEY.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset SMART KEY.vi"/>
 				<Item Name="Preset SOFT. AGC query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset SOFT. AGC query.vi"/>
 				<Item Name="Preset SOFT. AGC.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset SOFT. AGC.vi"/>
@@ -52,10 +65,6 @@ Type: Hi-Pot Tester</Property>
 				<Item Name="Preset STEP HOLD time.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset STEP HOLD time.vi"/>
 				<Item Name="Preset Withstand AUTO RANGE query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset Withstand AUTO RANGE query.vi"/>
 				<Item Name="Preset Withstand AUTO RANGE.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset Withstand AUTO RANGE.vi"/>
-				<Item Name="Preset AC-V FREQ query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset AC-V FREQ query.vi"/>
-				<Item Name="Preset AC-V FREQ.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset AC-V FREQ.vi"/>
-				<Item Name="Preset AFTER FAIL.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset AFTER FAIL.vi"/>
-				<Item Name="Preset GFI switch.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset GFI switch.vi"/>
 			</Item>
 			<Item Name="IEEE 488.2" Type="Folder">
 				<Item Name="IEEE 488.2.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/IEEE 488.2/IEEE 488.2.mnu"/>
