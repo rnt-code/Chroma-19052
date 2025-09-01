@@ -7,7 +7,6 @@
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Chroma 19052.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Chroma 19052/Chroma 19052.lvlib"/>
-		<Item Name="Configure OSC Limit Open.vi" Type="VI" URL="../../../../../../Users/Taboada.r248/Documents/LabVIEW Data/CHROMA-1905X-series-Driver/Files/Configure OSC Limit Open.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

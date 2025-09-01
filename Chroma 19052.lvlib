@@ -32,6 +32,31 @@ Type: Hi-Pot Tester</Property>
 			<Item Name="Source Step Delete.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Action-Status/Source Step Delete.vi"/>
 		</Item>
 		<Item Name="Configure" Type="Folder">
+			<Item Name="Presets" Type="Folder">
+				<Item Name="Preset GR. CONT. test query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset GR. CONT. test query.vi"/>
+				<Item Name="Preset GR. CONT. test.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset GR. CONT. test.vi"/>
+				<Item Name="Preset LOT NUMBER validator.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset LOT NUMBER validator.vi"/>
+				<Item Name="Preset LOT NUMBER.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset LOT NUMBER.vi"/>
+				<Item Name="Preset PART NUMBER validator.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset PART NUMBER validator.vi"/>
+				<Item Name="Preset PART NUMBER.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset PART NUMBER.vi"/>
+				<Item Name="Preset PASS HOLD time query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset PASS HOLD time query.vi"/>
+				<Item Name="Preset PASS HOLD time.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset PASS HOLD time.vi"/>
+				<Item Name="Preset RAMP JUDGment.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset RAMP JUDGment.vi"/>
+				<Item Name="Preset SCREEN.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset SCREEN.vi"/>
+				<Item Name="Preset SERIAL NUMBER validator.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset SERIAL NUMBER validator.vi"/>
+				<Item Name="Preset SERIAL NUMBER.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset SERIAL NUMBER.vi"/>
+				<Item Name="Preset SMART KEY.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset SMART KEY.vi"/>
+				<Item Name="Preset SOFT. AGC query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset SOFT. AGC query.vi"/>
+				<Item Name="Preset SOFT. AGC.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset SOFT. AGC.vi"/>
+				<Item Name="Preset STEP HOLD time query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset STEP HOLD time query.vi"/>
+				<Item Name="Preset STEP HOLD time.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset STEP HOLD time.vi"/>
+				<Item Name="Preset Withstand AUTO RANGE query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset Withstand AUTO RANGE query.vi"/>
+				<Item Name="Preset Withstand AUTO RANGE.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset Withstand AUTO RANGE.vi"/>
+				<Item Name="Preset AC-V FREQ query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset AC-V FREQ query.vi"/>
+				<Item Name="Preset AC-V FREQ.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset AC-V FREQ.vi"/>
+				<Item Name="Preset AFTER FAIL.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset AFTER FAIL.vi"/>
+				<Item Name="Preset GFI switch.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Presets/Preset GFI switch.vi"/>
+			</Item>
 			<Item Name="IEEE 488.2" Type="Folder">
 				<Item Name="IEEE 488.2.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/IEEE 488.2/IEEE 488.2.mnu"/>
 				<Item Name="Configure CLS.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/IEEE 488.2/Configure CLS.vi"/>
@@ -84,6 +109,15 @@ Type: Hi-Pot Tester</Property>
 				<Item Name="Configure Voltage Level Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure Voltage Level Query.vi"/>
 				<Item Name="Configure Voltage Level.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure Voltage Level.vi"/>
 				<Item Name="Test Parameters.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Test Parameters.mnu"/>
+				<Item Name="Configure OSC CRANge Scale query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure OSC CRANge Scale query.vi"/>
+				<Item Name="Configure OSC CStandard query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure OSC CStandard query.vi"/>
+				<Item Name="Configure OSC CStandard.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure OSC CStandard.vi"/>
+				<Item Name="Configure OSC CURRent OFFSet query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure OSC CURRent OFFSet query.vi"/>
+				<Item Name="Configure OSC CURRent OFFSet.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure OSC CURRent OFFSet.vi"/>
+				<Item Name="Configure OSC Limit Open query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure OSC Limit Open query.vi"/>
+				<Item Name="Configure OSC Limit Open.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure OSC Limit Open.vi"/>
+				<Item Name="Configure OSC Limit Short query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure OSC Limit Short query.vi"/>
+				<Item Name="Configure OSC Limit Short.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure OSC Limit Short.vi"/>
 			</Item>
 			<Item Name="System" Type="Folder">
 				<Item Name="System Error Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/System/System Error Query.vi"/>
@@ -113,6 +147,7 @@ Type: Hi-Pot Tester</Property>
 				<Item Name="DC-IR modes--ring.ctl" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Utility/Type Def/DC-IR modes--ring.ctl"/>
 				<Item Name="steps--numeric.ctl" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Utility/Type Def/steps--numeric.ctl"/>
 				<Item Name="OSC mode--ring.ctl" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Utility/Type Def/OSC mode--ring.ctl"/>
+				<Item Name="Preset Number States--enum.ctl" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Utility/Type Def/Preset Number States--enum.ctl"/>
 			</Item>
 			<Item Name="Memory" Type="Folder">
 				<Item Name="Memory Define Location Name.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Utility/Memory/Memory Define Location Name.vi"/>
