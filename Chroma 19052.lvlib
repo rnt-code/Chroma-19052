@@ -85,6 +85,7 @@ Type: Hi-Pot Tester</Property>
 				<Item Name="Configure STB query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/IEEE 488.2/Configure STB query.vi"/>
 			</Item>
 			<Item Name="Test Parameters" Type="Folder">
+				<Property Name="NI.SortType" Type="Int">0</Property>
 				<Item Name="Configure AC Real Current Limit Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure AC Real Current Limit Query.vi"/>
 				<Item Name="Configure AC Real Current Limit.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure AC Real Current Limit.vi"/>
 				<Item Name="Configure ARC Limit Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure ARC Limit Query.vi"/>
@@ -111,13 +112,6 @@ Type: Hi-Pot Tester</Property>
 				<Item Name="Configure Low Limit.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure Low Limit.vi"/>
 				<Item Name="Configure Offset Level Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure Offset Level Query.vi"/>
 				<Item Name="Configure Offset Level.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure Offset Level.vi"/>
-				<Item Name="Configure Ramp Time Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure Ramp Time Query.vi"/>
-				<Item Name="Configure Ramp Time.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure Ramp Time.vi"/>
-				<Item Name="Configure Test Time Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure Test Time Query.vi"/>
-				<Item Name="Configure Test Time.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure Test Time.vi"/>
-				<Item Name="Configure Voltage Level Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure Voltage Level Query.vi"/>
-				<Item Name="Configure Voltage Level.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure Voltage Level.vi"/>
-				<Item Name="Test Parameters.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Test Parameters.mnu"/>
 				<Item Name="Configure OSC CRANge Scale query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure OSC CRANge Scale query.vi"/>
 				<Item Name="Configure OSC CStandard query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure OSC CStandard query.vi"/>
 				<Item Name="Configure OSC CStandard.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure OSC CStandard.vi"/>
@@ -127,6 +121,19 @@ Type: Hi-Pot Tester</Property>
 				<Item Name="Configure OSC Limit Open.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure OSC Limit Open.vi"/>
 				<Item Name="Configure OSC Limit Short query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure OSC Limit Short query.vi"/>
 				<Item Name="Configure OSC Limit Short.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure OSC Limit Short.vi"/>
+				<Item Name="Configure PA MESSAGE query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure PA MESSAGE query.vi"/>
+				<Item Name="Configure PA MESSAGE.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure PA MESSAGE.vi"/>
+				<Item Name="Configure PA TIME TEST query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure PA TIME TEST query.vi"/>
+				<Item Name="Configure PA TIME TEST.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure PA TIME TEST.vi"/>
+				<Item Name="Configure PA UTSIGNAL query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure PA UTSIGNAL query.vi"/>
+				<Item Name="Configure PA UTSIGNAL.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure PA UTSIGNAL.vi"/>
+				<Item Name="Configure Ramp Time Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure Ramp Time Query.vi"/>
+				<Item Name="Configure Ramp Time.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure Ramp Time.vi"/>
+				<Item Name="Configure Test Time Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure Test Time Query.vi"/>
+				<Item Name="Configure Test Time.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure Test Time.vi"/>
+				<Item Name="Configure Voltage Level Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure Voltage Level Query.vi"/>
+				<Item Name="Configure Voltage Level.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Configure Voltage Level.vi"/>
+				<Item Name="Test Parameters.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Test Parameters/Test Parameters.mnu"/>
 			</Item>
 			<Item Name="System" Type="Folder">
 				<Item Name="System Error Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/System/System Error Query.vi"/>
