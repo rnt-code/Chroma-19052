@@ -147,9 +147,28 @@ Type: Hi-Pot Tester</Property>
 			<Item Name="Configure.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Configure/Configure.mnu"/>
 		</Item>
 		<Item Name="Data" Type="Folder">
+			<Item Name="Results" Type="Folder">
+				<Item Name="Result All Steps Dwell Time.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Results/Result All Steps Dwell Time.vi"/>
+				<Item Name="Result All Steps Elapsed Time.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Results/Result All Steps Elapsed Time.vi"/>
+				<Item Name="Result All Steps Fall Time.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Results/Result All Steps Fall Time.vi"/>
+				<Item Name="Result All Steps Judgement Codes.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Results/Result All Steps Judgement Codes.vi"/>
+				<Item Name="Result All Steps Measure Meter Readings.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Results/Result All Steps Measure Meter Readings.vi"/>
+				<Item Name="Result All Steps Output Meter Readings.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Results/Result All Steps Output Meter Readings.vi"/>
+				<Item Name="Result All Steps Ramp Time.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Results/Result All Steps Ramp Time.vi"/>
+				<Item Name="Result All Steps Real Current Meter Readings.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Results/Result All Steps Real Current Meter Readings.vi"/>
+				<Item Name="Result All Steps Time.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Results/Result All Steps Time.vi"/>
+				<Item Name="Result Completed.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Results/Result Completed.vi"/>
+				<Item Name="Result Last Step Judgement Code.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Results/Result Last Step Judgement Code.vi"/>
+				<Item Name="Result Last Step Measure Meter Reading.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Results/Result Last Step Measure Meter Reading.vi"/>
+				<Item Name="Result Last Step Output Meter Reading.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Results/Result Last Step Output Meter Reading.vi"/>
+				<Item Name="Result Last Step Real Current Meter.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Results/Result Last Step Real Current Meter.vi"/>
+				<Item Name="Result Step Measure Meter Reading query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Results/Result Step Measure Meter Reading query.vi"/>
+				<Item Name="Result Step Output Meter Reading query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Results/Result Step Output Meter Reading query.vi"/>
+				<Item Name="Result Step Real Current Meter Reading.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Results/Result Step Real Current Meter Reading.vi"/>
+				<Item Name="Result All Modes.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Results/Result All Modes.vi"/>
+				<Item Name="Result Step Jugement Code.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Results/Result Step Jugement Code.vi"/>
+			</Item>
 			<Item Name="Data.mnu" Type="Document" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Data.mnu"/>
-			<Item Name="Result All Modes query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Result All Modes query.vi"/>
-			<Item Name="Result Step Jugement query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Result Step Jugement query.vi"/>
 			<Item Name="Source CST Standar.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Source CST Standar.vi"/>
 			<Item Name="Source Fetch query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Source Fetch query.vi"/>
 			<Item Name="Source Mode query.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma 19052/Public/Data/Source Mode query.vi"/>
